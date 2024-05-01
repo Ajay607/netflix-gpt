@@ -32,7 +32,7 @@ export default {
 
 <!-- netflix gpt project setup -->
 - create react app with vite.
-- configure tailwind css
+- Install and configure tailwind css
 
 <!-- #Features -->
  - Login/Signup

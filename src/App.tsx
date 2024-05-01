@@ -1,18 +1,13 @@
 
 import './App.css'
+import Body from './pages/Body'
+import Login from './pages/Login'
 
 function App() {
 
   return (
     <>
-      {/* <BrowserRouter>
-        <Routes>
-          <Route path="/" element={< />} />
-        </Routes>
-      </BrowserRouter> */}
-      <h1 className="text-3xl font-bold underline bg-red-500">
-        Hello world!
-      </h1>
+     <Body />
     </>
   )
 }
